@@ -1,0 +1,165 @@
+body {
+    background-color: cornsilk;
+} 
+  .index img {
+      border: 1px solid black;
+      border-radius: 2px;
+      padding: 10px;
+      width: 600px;
+  }
+  .page1 img{
+    border: 1px solid black;
+    position:absolute;
+    top:50%;
+    left:30%;
+    border-radius: 2px;
+    padding: 5px;
+    width: 600px;
+  }
+  .page1 p1{
+    color: rgb(19, 19, 32);
+    font-size: 90%;
+    font-weight: bold;
+
+  }
+  .index h1 {
+    color: blue;
+  }
+  .index h3 {
+    color: black;
+    font-size: 250%;
+    font-style: inherit;
+    font-weight: bold;
+    border: 2px solid lightblue;
+    text-decoration: underline;
+
+  }
+  .index a {
+    font-weight: bold;
+    color: blueviolet;
+    border: 1px black;
+  }
+  .index p {
+    color: violet;
+    font-size: large;
+    font-style: italic;
+    font-weight: bold;
+  
+  }
+  .page1 p{
+    color: rgb(19, 19, 32);
+    font-size: 90%;
+    font-weight: bold;
+    
+  }
+  .index h2 {
+    font-weight: bold;
+    font-size: 160%;
+    font-style: initial;
+    color: darkblue;
+    border: 2px solid black;
+  }
+  .page1 h2{
+    font-weight: bold;
+    font-size: 160%;
+    font-style: initial;
+    color: darkblue;
+    border: 2px solid black;
+  }
+  .page2 p{
+    color: black;
+    margin: 0;
+    font-weight: bold;
+    font-style: normal;
+  }
+  .page2 h3{
+    color: darkred;
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+  }
+  .page2 img{
+    border: 1px solid black;
+    position:absolute;
+    top:100%;
+    left:30%;
+    border-radius: 2px;
+    padding: 5px;
+    width: 600px;
+  }
+  .page2 h2{
+    color: darkred;
+    font-weight: bolder;
+    font-variant-caps: titling-caps;
+  }
+  .elementy img{
+    border: 1px solid black;
+    position:absolute;
+    top:100%;
+    left:30%;
+    border-radius: 2px;
+    padding: 5px;
+    width: 600px;
+  }
+  .elementy2 img{
+    border: 1px solid black;
+    position:absolute;
+    top:200%;
+    left:30%;
+    border-radius: 2px;
+    padding: 5px;
+    width: 600px;
+  }
+  .elementy3 img{
+    order: 1px solid black;
+    position:absolute;
+    top:20%;
+    left:30%;
+    border-radius: 2px;
+    padding: 5px;
+    width: 600px;
+  }
+  .page3 img{
+    border: 1px solid black;
+      border-radius: 2px;
+      padding: 10px;
+      width: 600px;
+  }
+  .page3 h2{
+    color: aquamarine;
+    font-weight: bolder;
+
+  }
+  .auto1 img{
+    order: 1px solid black;
+    position:absolute;
+    top:40%;
+    left: 10%;
+    border-radius: 2px;
+    padding: 5px;
+    width: 600px;
+    image-resolution: 300dpi;
+  }
+  .auto2 img{
+    order: 1px solid black;
+    position:absolute;
+    top:40%;
+    right:10%;
+    border-radius: 2px;
+    padding: 4px;
+    width: 600px;
+    image-resolution: 300dpi;
+
+  }
+  .page3 p{
+    color: black;
+    font-weight:  bold;
+  }
+  .page3 h3{
+    color: darkred;
+    font-weight: bold;
+    font-style: italic;
+    font-size: large;
+  }
+  .page2{background-color:azure;}
+  .page3{background-color:lightblue;}
