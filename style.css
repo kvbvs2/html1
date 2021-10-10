@@ -1,11 +1,50 @@
 body {
-    background-color: cornsilk;
+    background-color: lightblue;
 } 
+  .linia{
+    max-width: 800px;
+    height: 3px;
+    background-color: #fff;
+    margin: 10px 120px;
+    border: 1px solid black;  
+  }
+  .button{
+    position: relative;
+    left:10px;
+    top:120px;
+    background-color: darkblue;
+    border: 2px solid black;
+    color: white;
+    padding: 15px 5px;
+    width: 200px;
+    text-decoration: none;
+    text-align: center;
+    font-size: 14px;
+    margin: 10px 2px;
+    display: block;
+    transition:all 0.3s;
+  }
+  .button:hover{
+    background-color: white;
+    border: 2px solid black;
+    color:lightblue;
+    padding: 15px 5px;
+    width: 200px;
+    text-decoration: none;
+    text-align: center  ;
+    display: block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+  
   .index img {
       border: 1px solid black;
-      border-radius: 2px;
-      padding: 10px;
-      width: 600px;
+      border-radius: 1px;
+      padding: 4px;
+      width: 650px;
+      position: absolute;
+      right:400px;
+      top: 140px;
   }
   .page1 img{
     border: 1px solid black;
@@ -23,21 +62,20 @@ body {
 
   }
   .index h1 {
-    color: blue;
+    color: white;
   }
   .index h3 {
-    color: black;
+    color: darkblue;
     font-size: 250%;
     font-style: inherit;
     font-weight: bold;
-    border: 2px solid lightblue;
-    text-decoration: underline;
-
+    border: 2px;
+    position:relative;
+    margin:5px 150px ;
   }
   .index a {
-    font-weight: bold;
-    color: blueviolet;
-    border: 1px black;
+    color: white;
+    text-decoration: none;
   }
   .index p {
     color: violet;
